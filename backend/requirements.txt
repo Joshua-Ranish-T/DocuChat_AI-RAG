@@ -1,0 +1,11 @@
+Flask
+flask-cors
+werkzeug
+langchain
+pymilvus
+langchain-community
+langchain-unstructured
+google-generative-ai
+google-generativeai
+requests
+python-multipart
